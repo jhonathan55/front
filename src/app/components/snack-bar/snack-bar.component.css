@@ -1,0 +1,18 @@
+.snackbar-container {
+    display: flex;
+    align-items: center;
+    background-color: #4caf50; /* Color de éxito */
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .snackbar-icon {
+    margin-right: 8px;
+    font-size: 24px;
+  }
+  
+  .snackbar-message {
+    font-size: 16px;
+  }
+  
